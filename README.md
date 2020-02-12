@@ -1,3 +1,0 @@
-# GameDevelopment
-The coursework portfolio
-
