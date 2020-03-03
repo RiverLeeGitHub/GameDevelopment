@@ -3,10 +3,12 @@ The coursework portfolio
 
 #### Scene construction
 
+Contains scene cosntruction, use of assets, scripts of trigger events.
 ![](https://github.com/RiverLeeGitHub/GameDevelopment/blob/master/Scene%20construction/demo.gif?raw=true)
 
 #### Animation with/without code
 
+Scene switching between to animations: one is an animation created through keyframing, and one is an animation with script and changes the properties of the ball according to the user's operations.
 ![](https://github.com/RiverLeeGitHub/GameDevelopment/blob/master/Animation%20with%20or%20without%20codes/demo.gif?raw=true)
 
 #### ODE methods for simulation
