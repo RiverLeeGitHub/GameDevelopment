@@ -3,7 +3,7 @@ The coursework portfolio
 
 #### Scene Construction
 
-![](https://github.com/RiverLeeGitHub/GameDevelopment/blob/master/Scene construction/demo.gif)
+![](https://github.com/RiverLeeGitHub/GameDevelopment/blob/master/Scene%20construction/demo.gif?raw=true)
 
 #### Animation with/without code
 
