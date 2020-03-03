@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{C6BAB1E2-4B18-5F11-E1C6-2CC55A380A34}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Pendulum.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Pendulum.cs" Line="96" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Assignment3a_starter" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5ac45990-3f29-4b25-97d5-14f1b8199364" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
