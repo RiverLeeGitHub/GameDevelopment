@@ -19,4 +19,5 @@ Uses Ordinary Differential Equation (ODE) to simulate the movement of a pendulum
 * Runge-Kutta integration
 * Semi-implicit Euler method (or known as symplectic Euler)
 
+The GIF below shows the simulation based on Runge-Kutta integration.
 ![](https://github.com/RiverLeeGitHub/GameDevelopment/blob/master/ODE%20simulation/demo.gif?raw=true)
