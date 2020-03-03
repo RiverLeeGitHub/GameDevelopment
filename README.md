@@ -7,4 +7,4 @@ The coursework portfolio
 
 #### Animation with/without code
 
-![](https://github.com/RiverLeeGitHub/GameDevelopment/blob/master/Animation&Coding/demo.gif)
+![](https://github.com/RiverLeeGitHub/GameDevelopment/blob/master/Animation&Coding/demo.gif?raw=true)
