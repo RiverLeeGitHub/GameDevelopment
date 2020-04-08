@@ -26,4 +26,4 @@ The GIF below shows the simulation based on Runge-Kutta integration.
 
 This module contains the implementation of animation controllers and articulated rigid bodies. The character can play different animations when taking relative movements: walking, running and jumping. And these animations can be transferred from one to another instantly. When it comes to the articulate bodies, I use three different objects to manifest the implementation of "spring joint", "fixed joint" and "hinge joint".
 
-![](https://github.com/RiverLeeGitHub/GameDevelopment/blob/master/Scene%20construction/demo.gif?raw=true)
+![](https://github.com/RiverLeeGitHub/GameDevelopment/blob/master/articulated%20bodies/demo.gif?raw=true)
