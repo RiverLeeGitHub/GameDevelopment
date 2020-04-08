@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{9CA2E853-D14F-DB71-3086-6EEDE4C19B22}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/WalkScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/WalkScript.cs" Line="30" Column="26" />
+      <File FileName="../../HW2/HW2_Animation/Assets/Scripts/MouseMove.cs" />
+      <File FileName="../../HW3/Assignment3b_starter/Assets/Scripts/ParticleMotion.cs" />
+      <File FileName="../../HW3/Assignment3b_starter/Assets/Scripts/OnClickStart.cs" />
+      <File FileName="Assets/Scripts/OnClickStart.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c6f3924c-5623-48ff-8d6a-14b99146f6be" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
